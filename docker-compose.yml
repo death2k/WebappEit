@@ -1,0 +1,36 @@
+version: '3.3'
+
+services:
+  apache:
+    image: 'php:7.2-apache'
+    container_name: caldeiraseit2-php
+    restart: always
+    ports:
+      - '8080:81'
+    volumes:
+      - ./:/var/www/html
+    depends_on:
+      - mysqldb
+    links:
+      - mysqldb
+
+  mysqldb:
+    container_name: caldeiraseit2-mysql
+    image: mysql:5.7
+    restart: always
+    ports:
+      - '3307:3306'
+    environment:
+      - MYSQL_ROOT_PASSWORD=root
+      - MYSQL_DATABASE=caldeiraseit2-mysql
+  phpmyadmin:
+    container_name: caldeiraseit2-myadmin
+    image: phpmyadmin/phpmyadmin
+    links:
+      - mysqldb
+    ports:
+      - 9191:80
+    environment:
+      MYSQL_USERNAME: root
+      MYSQL_ROOT_PASSWORD: root
+      PMA_HOST: mysql
