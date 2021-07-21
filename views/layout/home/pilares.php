@@ -12,9 +12,7 @@
                     
                     <div class="text-box">
                         <h3 style="text-align:center">MISSÃO</h3>
-                        <p style="text-align:justify">Ser Útil para Sociedade, Através de Prestação de Serviços, e Fabricação de Caldeiras e Equipamentos Com Alto Padrão de Qualidade, Agilidade, Eficiência, Inovação e Tecnologia.
-                            Competência, Comprometimento, Responsabilidade, Seriedade, e Conhecimento Técnico.
-                            Fabricar Equipamentos Eficientes, Atendendo as Exigências do Mercado, e Normas de Fabricação.</p>
+                        <p style="text-align:justify">Ser útil para sociedade, através de prestação de serviços na  fabricação de caldeiras e equipamentos com excelência no atendimento, fazendo a diferença pela competência, comprometimento, responsabilidade, seriedade e conhecimento técnico.</p>
                     </div>
                 </div>
             </div>
@@ -23,10 +21,9 @@
                     
                     <div class="text-box">
                         <h3 style="text-align:center">VISÃO</h3>
-                        <p style="text-align:justify">Desenvolvimento Equipamentos Com Inovações Tecnológicas, Agroindustria
-Competitividade, Tempo de Fabricação e Consumo de Combustível
-Reconhecimento no Mercado
-Exportação</p>
+                        <p style="text-align:justify">Buscar a liderança no mercado de fabricação de caldeiras como sinônimo de equipamentos com alto padrão de qualidade, agilidade, eficiência, inovação e tecnologia, desenvolvendo equipamentos com competitividade no tempo de fabricação;
+
+Fazer com que as inovações tecnológicas da fornalha a vapor EIT, possa gerar maior competividade para a agroindústria, com qualidade na secagem de grãos isentos de toxinas através de secagem indireta, sendo sustentável devido à economia de consumo de combustível e alcançando reconhecimento do mercado interno e para exportação.</p>
                     </div>
                 </div>
             </div>
@@ -35,7 +32,9 @@ Exportação</p>
                    
                     <div class="text-box">
                         <h3 style="text-align:center">VALORES</h3>
-                        <p style="text-align:justify">Trabalhar Com Seriedade, Conhecimento Técnico, Experiência</p>
+                        <p style="text-align:justify">Trabalhar com seriedade, honestidade, ética, comprometimento, colaboração, entusiasmo, conhecimento técnico, respeito e experiência.
+
+Manter a responsabilidade ambiental e social, criando laços de confiança da sociedade como um todo: cliente, funcionários e fornecedores.</p>
                     </div>
                 </div>
             </div>

@@ -11,9 +11,9 @@
             <div id="parentHorizontalTab">
                <ul class="resp-tabs-list hor_1">
                   <li>CALDEIRAS</li>
+                  <li>FORNALHA A VAPOR</li>
                   <li>EQUIPAMENTOS</li>
-                  <li>SERVIÇOS</li>
-                  <li>PEÇAS</li>
+                  <li>PEÇAS E SERVIÇOS</li>
                   <div class="clear"></div>
                </ul>
                <div class="resp-tabs-container hor_1">
@@ -23,10 +23,10 @@
                            <div class="content">
                               <a href="#url">
                                  <div class="content-overlay"></div>
-                                 <img src="assets/images/p1.jpg" class="img-fluid radius-image"
+                                 <img src="assets/images/projects/flamotubular.jpg" class="img-fluid radius-image"
                                     alt="project image">
                                  <div class="project-img ">
-                              <a href="" style="text-decoration:none;" > <h4 class="content-title project-content">Caldeira a Vapor</h4></a>
+                              <a href="" style="text-decoration:none;" > <h4 class="content-title project-content">FLAMOTUBULAR</h4></a>
                               </div>
                               </a>
                            </div>
@@ -35,7 +35,7 @@
                            <div class="content">
                               <a href="#url">
                                  <div class="content-overlay"></div>
-                                 <img src="assets/images/p2.jpg" class="img-fluid radius-image"
+                                 <img src="assets/images/projects/mista.jpg"" class="img-fluid radius-image"
                                     alt="project image">
                                  <style>
                                     .project-img{
@@ -55,7 +55,7 @@
                                     }
                                  </style>
                                  <div class="project-img ">
-                              <a href="" style="text-decoration:none;" > <h4 class="content-title project-content">Caldeira a Vapor</h4></a>
+                              <a href="" style="text-decoration:none;" > <h4 class="content-title project-content">MISTA</h4></a>
                               </div>
                               </a>
                            </div>
@@ -64,10 +64,10 @@
                            <div class="content">
                               <a href="#url">
                                  <div class="content-overlay"></div>
-                                 <img src="assets/images/p3.jpg" class="img-fluid radius-image"
+                                 <img src="assets/images/projects/semfoto1.jpg"" class="img-fluid radius-image"
                                     alt="project image">
                                  <div class="project-img ">
-                              <a href="" style="text-decoration:none;" > <h4 class="content-title project-content">Caldeira a Vapor</h4></a>
+                              <a href="" style="text-decoration:none;" > <h4 class="content-title project-content">ELÉTRICA</h4></a>
                               </div>
                               </a>
                            </div>
@@ -76,10 +76,10 @@
                            <div class="content">
                               <a href="#url">
                                  <div class="content-overlay"></div>
-                                 <img src="assets/images/p4.jpg" class="img-fluid radius-image"
-                                    alt="project image">
+                                 <img src="assets/images/projects/sobrerodas.jpg" class=" radius-image"
+                                    alt="project image" style="width:295px; height: 295px;">
                                  <div class="project-img ">
-                              <a href="" style="text-decoration:none;" > <h4 class="content-title project-content">Caldeira a Vapor</h4></a>
+                              <a href="" style="text-decoration:none;" > <h4 class="content-title project-content">SOBRE RODAS</h4></a>
                               </div>
                               </a>
                            </div>
@@ -88,50 +88,17 @@
                            <div class="content">
                               <a href="#url">
                                  <div class="content-overlay"></div>
-                                 <img src="assets/images/about1.jpg" class="img-fluid radius-image"
+                                 <img src="assets/images/projects/semfoto1.jpg" class="img-fluid radius-image"
                                     alt="project image">
                                  <div class="project-img ">
-                              <a href="" style="text-decoration:none;" > <h4 class="content-title project-content">Caldeira a Vapor</h4></a>
+                              <a href="" style="text-decoration:none;" > <h4 class="content-title project-content">AQUATUBULAR</h4></a>
                               </div>
                               </a>
                            </div>
                         </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6 mt-4 pt-2">
-                           <div class="content">
-                              <a href="#url">
-                                 <div class="content-overlay"></div>
-                                 <img src="assets/images/about2.jpg" class="img-fluid radius-image"
-                                    alt="project image">
-                                 <div class="project-img ">
-                              <a href="" style="text-decoration:none;" > <h4 class="content-title project-content">Caldeira a Vapor</h4></a>
-                              </div>
-                              </a>
-                           </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6 mt-4 pt-2">
-                           <div class="content">
-                              <a href="#url">
-                                 <div class="content-overlay"></div>
-                                 <img src="assets/images/p5.jpg" class="img-fluid radius-image"
-                                    alt="project image">
-                                 <div class="project-img ">
-                              <a href="" style="text-decoration:none;" > <h4 class="content-title project-content">Caldeira a Vapor</h4></a>
-                              </div>
-                              </a>
-                           </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6 mt-4 pt-2">
-                           <div class="content">
-                              <a href="#url">
-                                 <div class="content-overlay"></div>
-                                 <img src="assets/images/p6.jpg" class="img-fluid radius-image"
-                                    alt="project image">
-                                 <div class="project-img ">
-                              <a href="" style="text-decoration:none;" > <h4 class="content-title project-content">Caldeira a Vapor</h4></a>
-                              </div>
-                              </a>
-                           </div>
-                        </div>
+                        
+                        
+                        
                      </div>
                   </div>
                   <div class="products-content">
@@ -140,74 +107,15 @@
                            <div class="content">
                               <a href="#url">
                                  <div class="content-overlay"></div>
-                                 <img src="assets/images/p5.jpg" class="img-fluid radius-image"
+                                 <img src="assets/images/projects/fornalhasecagem.png" class="img-fluid radius-image"
                                     alt="project image">
                                  <div class="project-img ">
-                              <a href="" style="text-decoration:none;" > <h4 class="content-title project-content">Caldeira a Vapor</h4></a>
+                              <a href="" style="text-decoration:none;" > <h4 class="content-title project-content">FORNALHA PARA SECAGEM DE GRÃOS E SEMENTES</h4></a>
                               </div>
                               </a>
                            </div>
                         </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6 mt-sm-0 mt-5">
-                           <div class="content">
-                              <a href="#url">
-                                 <div class="content-overlay"></div>
-                                 <img src="assets/images/p6.jpg" class="img-fluid radius-image"
-                                    alt="project image">
-                                 <div class="project-img ">
-                              <a href="" style="text-decoration:none;" > <h4 class="content-title project-content">Caldeira a Vapor</h4></a>
-                              </div>
-                              </a>
-                           </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6 mt-md-0 mt-4 pt-md-0 pt-2">
-                           <div class="content">
-                              <a href="#url">
-                                 <div class="content-overlay"></div>
-                                 <img src="assets/images/about1.jpg" class="img-fluid radius-image"
-                                    alt="project image">
-                                 <div class="project-img ">
-                              <a href="" style="text-decoration:none;" > <h4 class="content-title project-content">Caldeira a Vapor</h4></a>
-                              </div>
-                              </a>
-                           </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6 mt-md-0 mt-4 pt-md-0 pt-2">
-                           <div class="content">
-                              <a href="#url">
-                                 <div class="content-overlay"></div>
-                                 <img src="assets/images/about2.jpg" class="img-fluid radius-image"
-                                    alt="project image">
-                                 <div class="project-img ">
-                              <a href="" style="text-decoration:none;" > <h4 class="content-title project-content">Caldeira a Vapor</h4></a>
-                              </div>
-                              </a>
-                           </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6 mt-4 pt-2">
-                           <div class="content">
-                              <a href="#url">
-                                 <div class="content-overlay"></div>
-                                 <img src="assets/images/p1.jpg" class="img-fluid radius-image"
-                                    alt="project image">
-                                 <div class="project-img ">
-                              <a href="" style="text-decoration:none;" > <h4 class="content-title project-content">Caldeira a Vapor</h4></a>
-                              </div>
-                              </a>
-                           </div>
-                        </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6 mt-4 pt-2">
-                           <div class="content">
-                              <a href="#url">
-                                 <div class="content-overlay"></div>
-                                 <img src="assets/images/p2.jpg" class="img-fluid radius-image"
-                                    alt="project image">
-                                 <div class="project-img ">
-                              <a href="" style="text-decoration:none;" > <h4 class="content-title project-content">Caldeira a Vapor</h4></a>
-                              </div>
-                              </a>
-                           </div>
-                        </div>
+                        
                      </div>
                   </div>
                   <div class="products-content">

@@ -14,7 +14,7 @@
                   <div class="sidepanel widget_text">
                      <div class="textwidget">
                         <img src="assets/images/logotipoeitsemfundo.png" style="width: 300px"><br><br>
-                        <h6 class="text-uppercase font-weight-bold mb-4">Administracão | Matriz Paiçandu - PR</h6>
+                        <h6 class="text-uppercase font-weight-bold mb-4">Administracão | Matriz Paiçandu - PR - BRASIL</h6>
                         <p class="text-muted mb-4">Caldeiras EIT. Rua Curitiba, 25 - Jardim Capital </br>CEP: 87140-000 Paiçandu-PR  </p>
                         <br>
                      </div>

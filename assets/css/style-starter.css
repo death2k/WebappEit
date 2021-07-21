@@ -10536,8 +10536,14 @@ nav ul li a:hover {
     font-size: 20px; } }
 
 .w3l-bg-image {
-  background: url(../images/slider/slider4.jpg) no-repeat center;
-  background-size: cover; }
+  background: url(../images/slider/slider4.jpg) no-repeat center center fixed;
+  
+  background-size: cover; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
   .w3l-bg-image .title-big {
     color: #fff; }
   .w3l-bg-image .text-align p {
