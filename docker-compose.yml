@@ -21,8 +21,10 @@ services:
     ports:
       - '3307:3306'
     environment:
+      - MYSQL_DATABASE=caldeiraseit-mysql
       - MYSQL_ROOT_PASSWORD=root
-      - MYSQL_DATABASE=caldeiraseit2-mysql
+      - MYSQL_USER=admin
+      - MYSQL_PASSWORD=admin
   phpmyadmin:
     container_name: caldeiraseit2-myadmin
     image: phpmyadmin/phpmyadmin
@@ -31,6 +33,4 @@ services:
     ports:
       - 9191:80
     environment:
-      MYSQL_USERNAME: root
-      MYSQL_ROOT_PASSWORD: root
-      PMA_HOST: mysql
+      PMA_HOST: mysqldb
