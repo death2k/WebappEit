@@ -1,4 +1,12 @@
 <!-- our products -->
+<style>
+                     .img-pad {
+                        max-width:300px;
+                        max-height:220px;
+                        width: auto;
+                        height: auto;
+}
+                  </style>
 <section class="w3l-products py-5" id="projects" style="background-color: white">
    <div class="container py-lg-3">
       <div class="header-section text-center mx-auto">
@@ -19,24 +27,28 @@
                <div class="resp-tabs-container hor_1">
                   <div class="products-content">
                      <div class="row">
-                        <div class="col-lg-3 col-md-4 col-sm-6">
+                        <div class="col-lg-3 col-md-4 col-sm-6 mb-10">
                            <div class="content">
                               <a href="#url">
                                  <div class="content-overlay"></div>
-                                 <img src="assets/images/projects/flamotubular.jpg" class="img-fluid radius-image"
+                                 <div class="">
+                                 <img src="assets/images/projects/flamotubular.jpg" class="img-fluid radius-image "
                                     alt="project image">
+                                 </div>
                                  <div class="project-img ">
                               <a href="" style="text-decoration:none;" > <h4 class="content-title project-content">FLAMOTUBULAR</h4></a>
                               </div>
                               </a>
                            </div>
                         </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6 mt-sm-0 mt-5">
+                        <div class="col-lg-3 col-md-4 col-sm-6 mt-sm-0 mt-5 mb-10">
                            <div class="content">
                               <a href="#url">
                                  <div class="content-overlay"></div>
-                                 <img src="assets/images/projects/mista.jpg"" class="img-fluid radius-image"
+                                 <div class="">
+                                 <img src="assets/images/projects/mista.jpg"" class="img-fluid radius-image "
                                     alt="project image">
+                                 </div>
                                  <style>
                                     .project-img{
                                     text-align: center;
@@ -60,36 +72,42 @@
                               </a>
                            </div>
                         </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6 mt-md-0 mt-4 pt-md-0 pt-2">
+                        <div class="col-lg-3 col-md-4 col-sm-6 mt-md-0 mt-4 pt-md-0 pt-2 mb-10">
                            <div class="content">
                               <a href="#url">
                                  <div class="content-overlay"></div>
-                                 <img src="assets/images/projects/semfoto1.jpg"" class="img-fluid radius-image"
+                                 <div class="">
+                                 <img src="assets/images/projects/semfoto1.jpg"" class="img-fluid radius-image "
                                     alt="project image">
+                                 </div>
                                  <div class="project-img ">
                               <a href="" style="text-decoration:none;" > <h4 class="content-title project-content">ELÉTRICA</h4></a>
                               </div>
                               </a>
                            </div>
                         </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6 mt-lg-0 mt-4 pt-lg-0 pt-2">
+                        <div class="col-lg-3 col-md-4 col-sm-6 mt-lg-0 mt-4 pt-lg-0 pt-2 mb-10">
                            <div class="content">
                               <a href="#url">
                                  <div class="content-overlay"></div>
-                                 <img src="assets/images/projects/sobrerodas.jpg" class=" radius-image"
+                                 <div class="">
+                                 <img src="assets/images/projects/sobrerodas.jpg" class=" radius-image "
                                     alt="project image" style="width:295px; height: 295px;">
+                                 </div>
                                  <div class="project-img ">
                               <a href="" style="text-decoration:none;" > <h4 class="content-title project-content">SOBRE RODAS</h4></a>
                               </div>
                               </a>
                            </div>
                         </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6 mt-4 pt-2">
+                        <div class="col-lg-3 col-md-4 col-sm-6 mt-4 pt-2 mb-10">
                            <div class="content">
                               <a href="#url">
                                  <div class="content-overlay"></div>
-                                 <img src="assets/images/projects/semfoto1.jpg" class="img-fluid radius-image"
+                                 <div class="">
+                                 <img src="assets/images/projects/semfoto1.jpg" class="img-fluid radius-image "
                                     alt="project image">
+                                 </div>
                                  <div class="project-img ">
                               <a href="" style="text-decoration:none;" > <h4 class="content-title project-content">AQUATUBULAR</h4></a>
                               </div>
@@ -101,14 +119,18 @@
                         
                      </div>
                   </div>
+
+                 
                   <div class="products-content">
                      <div class="row">
-                        <div class="col-lg-3 col-md-4 col-sm-6">
+                        <div class="col-lg-3 col-md-4 col-sm-6 mb-10">
                            <div class="content">
                               <a href="#url">
                                  <div class="content-overlay"></div>
-                                 <img src="assets/images/projects/fornalhasecagem.png" class="img-fluid radius-image"
+                                 <div class="img-pad">
+                                 <img src="assets/images/projects/fornalhasecagem.png" class="img-fluid radius-image "
                                     alt="project image">
+                                 </div>
                                  <div class="project-img ">
                               <a href="" style="text-decoration:none;" > <h4 class="content-title project-content">FORNALHA PARA SECAGEM DE GRÃOS E SEMENTES</h4></a>
                               </div>
@@ -121,24 +143,29 @@
 
                   <div class="products-content">
                      <div class="row">
-                        <div class="col-lg-3 col-md-4 col-sm-6">
+                        <div class="col-lg-3 col-md-4 col-sm-6 mb-10">
                            <div class="content">
                               <a href="#url">
                                  <div class="content-overlay"></div>
-                                 <img src="assets/images/projects/alimentadordecombustivel.JPG" class="img-fluid radius-image"
+                                 <div class="img-pad">
+                                 <img src="assets/images/projects/alimentadordecombustivel.JPG" class="img-fluid radius-image "
                                     alt="project image">
+                                 </div>
+
                                  <div class="project-img ">
                               <a href="" style="text-decoration:none;" > <h4 class="content-title project-content">ALIMENTADOR DE COMBUSTÍVEL</h4></a>
                               </div>
                               </a>
                            </div>
                         </div>
-                        <div class="col-lg-3 col-md-4 col-sm-6">
+                        <div class="col-lg-3 col-md-4 col-sm-6 mb-10">
                            <div class="content">
                               <a href="#url">
                                  <div class="content-overlay"></div>
-                                 <img src="assets/images/projects/aquecedoraviarios.jpg" class="img-fluid radius-image"
+                                 <div class="img-pad">
+                                 <img src="assets/images/projects/aquecedoraviarios.jpg" class="img-fluid radius-image "
                                     alt="project image">
+                                 </div>
                                  <div class="project-img ">
                               <a href="" style="text-decoration:none;" > <h4 class="content-title project-content">AQUECEDOR PARA AVIÁRIOS</h4></a>
                               </div>
@@ -146,25 +173,30 @@
                            </div>
                         </div>
 
-                        <div class="col-lg-3 col-md-4 col-sm-6">
-                           <div class="content">
+                        <div class="col-lg-3 col-md-4 col-sm-6" style="margin-bottom: 10px;">
+                           <div class="content" >
                               <a href="#url">
                                  <div class="content-overlay"></div>
-                                 <img src="assets/images/projects/aquecedoraviarios.jpg" class="img-fluid radius-image"
+                                 <div class="img-pad">
+                                 <img src="assets/images/projects/aquecedoraviarios.jpg" class="img-fluid radius-image "
                                     alt="project image">
+                                 </div>
+                                
                                  <div class="project-img ">
-                              <a href="" style="text-decoration:none;" > <h4 class="content-title project-content">AUTOCLAVE</h4></a>
+                                    <a href="" style="text-decoration:none;" > <h4 class="content-title project-content">AUTOCLAVE</h4></a>
                               </div>
                               </a>
                            </div>
                         </div>
 
-                        <div class="col-lg-3 col-md-4 col-sm-6">
+                        <div class="col-lg-3 col-md-4 col-sm-6" style="margin-bottom: 10px;">
                            <div class="content">
                               <a href="#url">
                                  <div class="content-overlay"></div>
-                                 <img src="assets/images/projects/exaustor.jpg" class="img-fluid radius-image"
+                                 <div class="img-pad">
+                                 <img src="assets/images/projects/exaustor.jpg" class="img-fluid radius-image "
                                     alt="project image">
+                                 </div>
                                  <div class="project-img ">
                               <a href="" style="text-decoration:none;" > <h4 class="content-title project-content">EXAUSTOR</h4></a>
                               </div>
@@ -175,7 +207,7 @@
                            <div class="content">
                               <a href="#url">
                                  <div class="content-overlay"></div>
-                                 <img src="assets/images/projects/aquecedoraviarios.jpg" class="img-fluid radius-image"
+                                 <img src="assets/images/projects/aquecedoraviarios.jpg" class="img-fluid radius-image "
                                     alt="project image">
                                  <div class="project-img ">
                               <a href="" style="text-decoration:none;" > <h4 class="content-title project-content">PRÉ-AQUECEDOR DE AR</h4></a>
@@ -187,7 +219,7 @@
                            <div class="content">
                               <a href="#url">
                                  <div class="content-overlay"></div>
-                                 <img src="assets/images/projects/garrafadenivel.jpg" class="img-fluid radius-image"
+                                 <img src="assets/images/projects/garrafadenivel.jpg" class="img-fluid radius-image "
                                     alt="project image">
                                  <div class="project-img ">
                               <a href="" style="text-decoration:none;" > <h4 class="content-title project-content">GARRAFA DE NÍVEL</h4></a>
@@ -200,7 +232,7 @@
                            <div class="content">
                               <a href="#url">
                                  <div class="content-overlay"></div>
-                                 <img src="assets/images/projects/serpentina.jpg" class="img-fluid radius-image"
+                                 <img src="assets/images/projects/serpentina.jpg" class="img-fluid radius-image "
                                     alt="project image">
                                  <div class="project-img ">
                               <a href="" style="text-decoration:none;" > <h4 class="content-title project-content">SERPENTINAS</h4></a>
@@ -213,7 +245,7 @@
                            <div class="content">
                               <a href="#url">
                                  <div class="content-overlay"></div>
-                                 <img src="assets/images/projects/tanquecondensado.jpg" class="img-fluid radius-image"
+                                 <img src="assets/images/projects/tanquecondensado.jpg" class="img-fluid radius-image "
                                     alt="project image">
                                  <div class="project-img ">
                               <a href="" style="text-decoration:none;" > <h4 class="content-title project-content">TANQUE DE CONDENSADO E CAIXA D'AGUA</h4></a>
@@ -225,7 +257,7 @@
                            <div class="content">
                               <a href="#url">
                                  <div class="content-overlay"></div>
-                                 <img src="assets/images/projects/aquecedoraviarios.jpg" class="img-fluid radius-image"
+                                 <img src="assets/images/projects/aquecedoraviarios.jpg" class="img-fluid radius-image "
                                     alt="project image">
                                  <div class="project-img ">
                               <a href="" style="text-decoration:none;" > <h4 class="content-title project-content">CHAMINÉ</h4></a>
@@ -237,7 +269,7 @@
                            <div class="content">
                               <a href="#url">
                                  <div class="content-overlay"></div>
-                                 <img src="assets/images/projects/aquecedoraviarios.jpg" class="img-fluid radius-image"
+                                 <img src="assets/images/projects/aquecedoraviarios.jpg" class="img-fluid radius-image "
                                     alt="project image">
                                  <div class="project-img ">
                               <a href="" style="text-decoration:none;" > <h4 class="content-title project-content">FILTRO CICLINE E MULTI CICLONE</h4></a>
@@ -254,7 +286,7 @@
                            <div class="content">
                               <a href="#url">
                                  <div class="content-overlay"></div>
-                                 <img src="assets/images/projects/semfoto1.jpg" class="img-fluid radius-image"
+                                 <img src="assets/images/projects/semfoto1.jpg" class="img-fluid radius-image "
                                     alt="project image">
                                  <div class="project-img ">
                               <a href="" style="text-decoration:none;" > <h4 class="content-title project-content">REFORMA EM CALDEIRAS</h4></a>
@@ -266,7 +298,7 @@
                            <div class="content">
                               <a href="#url">
                                  <div class="content-overlay"></div>
-                                 <img src="assets/images/projects/semfoto1.jpg" class="img-fluid radius-image"
+                                 <img src="assets/images/projects/semfoto1.jpg" class="img-fluid radius-image "
                                     alt="project image">
                                  <div class="project-img ">
                               <a href="" style="text-decoration:none;" > <h4 class="content-title project-content">MUDANÇA DE COMBUSTÍVEL DE CALDEIRAS</h4></a>
@@ -278,7 +310,7 @@
                            <div class="content">
                               <a href="#url">
                                  <div class="content-overlay"></div>
-                                 <img src="assets/images/projects/semfoto1.jpg" class="img-fluid radius-image"
+                                 <img src="assets/images/projects/semfoto1.jpg" class="img-fluid radius-image "
                                     alt="project image">
                                  <div class="project-img ">
                               <a href="" style="text-decoration:none;" > <h4 class="content-title project-content">ISOLAMENTO TÉRMICO EM CALDEIRAS</h4></a>
@@ -290,7 +322,7 @@
                            <div class="content">
                               <a href="#url">
                                  <div class="content-overlay"></div>
-                                 <img src="assets/images/projects/semfoto1.jpg" class="img-fluid radius-image"
+                                 <img src="assets/images/projects/semfoto1.jpg" class="img-fluid radius-image "
                                     alt="project image">
                                  <div class="project-img ">
                               <a href="" style="text-decoration:none;" > <h4 class="content-title project-content">ISOLAMENTO TÉRMICO EM TUBULAÇÕES</h4></a>
@@ -302,7 +334,7 @@
                            <div class="content">
                               <a href="#url">
                                  <div class="content-overlay"></div>
-                                 <img src="assets/images/projects/semfoto1.jpg" class="img-fluid radius-image"
+                                 <img src="assets/images/projects/semfoto1.jpg" class="img-fluid radius-image "
                                     alt="project image">
                                  <div class="project-img ">
                               <a href="" style="text-decoration:none;" > <h4 class="content-title project-content">CALANDRAMENTO</h4></a>
@@ -314,7 +346,7 @@
                            <div class="content">
                               <a href="#url">
                                  <div class="content-overlay"></div>
-                                 <img src="assets/images/projects/semfoto1.jpg" class="img-fluid radius-image"
+                                 <img src="assets/images/projects/semfoto1.jpg" class="img-fluid radius-image "
                                     alt="project image">
                                  <div class="project-img ">
                               <a href="" style="text-decoration:none;" > <h4 class="content-title project-content">MANUTENÇÃO EM VÁLVULAS DE BLOQUEIO E CONTROLE</h4></a>
@@ -326,7 +358,7 @@
                            <div class="content">
                               <a href="#url">
                                  <div class="content-overlay"></div>
-                                 <img src="assets/images/projects/semfoto1.jpg" class="img-fluid radius-image"
+                                 <img src="assets/images/projects/semfoto1.jpg" class="img-fluid radius-image "
                                     alt="project image">
                                  <div class="project-img ">
                               <a href="" style="text-decoration:none;" > <h4 class="content-title project-content">AFERIÇÃO DE VÁLVULAS DE SEGURANÇA</h4></a>
@@ -338,7 +370,7 @@
                            <div class="content">
                               <a href="#url">
                                  <div class="content-overlay"></div>
-                                 <img src="assets/images/projects/semfoto1.jpg" class="img-fluid radius-image"
+                                 <img src="assets/images/projects/semfoto1.jpg" class="img-fluid radius-image "
                                     alt="project image">
                                  <div class="project-img ">
                               <a href="" style="text-decoration:none;" > <h4 class="content-title project-content">INSPEÇÃO DE SEGURANÇA EM CALDEIRAS E VASOS-SOB PRESSÃO</h4></a>
