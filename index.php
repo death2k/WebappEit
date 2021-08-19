@@ -11,7 +11,28 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Caldeiras Eit</title>
+ <!-- Primary Meta Tags -->
+<title> Caldeiras EIT | Fabricação de Caldeiras, Aquecedores  e Fornalhas a Vapor.</title>
+<meta name="title" content=" Caldeiras EIT | Fabricação de Caldeiras, Aquecedores  e Fornalhas a Vapor.Caldeiras EIT | Fabricação de Caldeiras, Aquecedores  e Fornalhas a Vapor.">
+<meta name="description" content="As Caldeiras EIT contam com uma equipe técnica, para atendimentos 24 horas.
+— Caldeiras EIT | Fabricação de Caldeiras, Aquecedores  e Fornalhas a Vapor. Fabricação de Caldeiras, Aquecedores  e Fornalhas a Vapor.">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://metatags.io/">
+<meta property="og:title" content=" Caldeiras EIT | Fabricação de Caldeiras, Aquecedores  e Fornalhas a Vapor.Caldeiras EIT | Fabricação de Caldeiras, Aquecedores  e Fornalhas a Vapor.">
+<meta property="og:description" content="As Caldeiras EIT contam com uma equipe técnica, para atendimentos 24 horas.
+— Caldeiras EIT | Fabricação de Caldeiras, Aquecedores  e Fornalhas a Vapor. Fabricação de Caldeiras, Aquecedores  e Fornalhas a Vapor.">
+<meta property="og:image" content="https://metatags.io/assets/meta-tags-16a33a6a8531e519cc0936fbba0ad904e52d35f34a46c97a2c9f6f7dd7d336f2.png">
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="https://metatags.io/">
+<meta property="twitter:title" content=" Caldeiras EIT | Fabricação de Caldeiras, Aquecedores  e Fornalhas a Vapor.Caldeiras EIT | Fabricação de Caldeiras, Aquecedores  e Fornalhas a Vapor.">
+<meta property="twitter:description" content="As Caldeiras EIT contam com uma equipe técnica, para atendimentos 24 horas.
+— Caldeiras EIT | Fabricação de Caldeiras, Aquecedores  e Fornalhas a Vapor. Fabricação de Caldeiras, Aquecedores  e Fornalhas a Vapor.">
+<meta property="twitter:image" content="https://metatags.io/assets/meta-tags-16a33a6a8531e519cc0936fbba0ad904e52d35f34a46c97a2c9f6f7dd7d336f2.png">
+
      <!-- Bootstrap -->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
         <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
