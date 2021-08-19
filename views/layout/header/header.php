@@ -21,12 +21,12 @@
                            +55 (44) 3244-1435
                         </div>
                         <div class="top_bar_contact_item">
-                           <div class="top_bar_icon"><img src="https://img.icons8.com/flat-round/24/000000/phone.png"/></div>
+                           <div class="top_bar_icon"><img src="https://img.icons8.com/color/32/000000/whatsapp--v2.png"/></div>
                            +55 (44) 99931-0334
                         </div>
                         <div class="top_bar_contact_item" style="padding-left: 20px;">
                            <div class="top_bar_icon"><img src="https://img.icons8.com/pastel-glyph/24/000000/email--v3.png"/></div>
-                           contato@caldeiraseit.com.br
+                           caldeiraseit@caldeiraseit.com.br
                         </div>
                         <div class="top_bar_content ml-auto">
                            <div class="top_bar_menu">
@@ -66,7 +66,7 @@
                      </div>
                   <!--  Logo Casadacaldeira -->
                      <div class="col-lg-6 " style="text-align: end;"  >
-                        <a href="http://www.casadacaldeira.com.br"><img src="./assets/images/logocasadacaldeira.png" alt="" style="width: 230px; padding-top: 50px;"></a>
+                        <a href="http://www.casadacaldeira.com.br"><img src="./assets/images/logocasadacaldeira.png" alt="" style="width: 295px; padding-top: 50px;"></a>
                      </div>
                      
                   </div>
@@ -84,9 +84,9 @@
                               <ul class="standard_dropdown main_nav_dropdown">
                                  
                                  <li><a href="#">HOME<i class="fas fa-chevron-down"></i></a></li>
-                                 <li><a href="http://www.casadacaldeira.com.br/home/empresa/">EMPRESA<i class="fas fa-chevron-down"></i></a></li>
-                                 <li><a href="http://www.casadacaldeira.com.br/home/empresa/">SERVIÇOS<i class="fas fa-chevron-down"></i></a></li>
-                                 <li><a href="http://www.casadacaldeira.com.br/home/empresa/">MANUTENÇÃO<i class="fas fa-chevron-down"></i></a></li>
+                                 <li><a href="#work">EMPRESA<i class="fas fa-chevron-down"></i></a></li>
+                                 <li><a href="#project">SERVIÇOS<i class="fas fa-chevron-down"></i></a></li>
+                                 <li><a href="#project">MANUTENÇÃO<i class="fas fa-chevron-down"></i></a></li>
                                  <li class="hassubs">
                                     <a href="http://www.casadacaldeira.com.br/home/categoria-produto/valvula-para-amonia/">PRODUTOS<i class="fas fa-chevron-down"></i></a>
                                     <ul class="sub-menu" style="columns: 2;">
@@ -173,9 +173,9 @@
                                        <li id="nav-menu-item-3046" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat " data-cols="1"><a href="http://www.casadacaldeira.com.br/home/categoria-produto/visores-de-nivel/" class="">Visores de Nível</a></li>
                                     </ul>
                                  </li>
-                                 <li><a href="http://www.casadacaldeira.com.br/home/contato/">LOCALIZAÇÃO<i class="fas fa-chevron-down"></i></a></li>
+                                 <li><a href="#contact">LOCALIZAÇÃO<i class="fas fa-chevron-down"></i></a></li>
                                 
-                                 <li><a href="http://www.casadacaldeira.com.br/home/contato/">FALE CONOSCO<i class="fas fa-chevron-down"></i></a></li>
+                                 <li><a href="#contact">FALE CONOSCO<i class="fas fa-chevron-down"></i></a></li>
                               </ul>
                            </div>
 

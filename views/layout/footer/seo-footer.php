@@ -23,20 +23,19 @@
                <div class="col-lg-2 col-md-6 mb-4 mb-lg-0">
                   <h6 class="text-uppercase font-weight-bold mb-4">Empresa</h6>
                   <ul class="list-unstyled mb-0">
-                     <li class="mb-2"><a href="http://www.casadacaldeira.com.br/home/contato/" class="text-muted">Contato</a></li>
-                     <li class="mb-2"><a href="http://www.casadacaldeira.com.br/home/empresa/" class="text-muted">A Empresa</a></li>
-                     <li class="mb-2"><a href="http://www.casadacaldeira.com.br/home/categoria-produto/informacoes/" class="text-muted">Serviços</a></li>
-                     <li class="mb-2"><a href="http://www.casadacaldeira.com.br/home/categoria-produto/informacoes/" class="text-muted">Manutenção</a></li>
-                     <li class="mb-2"><a href="http://www.casadacaldeira.com.br/home/localizacao/" class="text-muted">Localização</a></li>
+                     <li class="mb-2"><a href="#contact" class="text-muted">Contato</a></li>
+                     <li class="mb-2"><a href="#work" class="text-muted">A Empresa</a></li>
+                     <li class="mb-2"><a href="#projects" class="text-muted">Serviços</a></li>
+                     <li class="mb-2"><a href="#projects" class="text-muted">Manutenção</a></li>
+                     <li class="mb-2"><a href="#contact" class="text-muted">Localização</a></li>
                   </ul>
                </div>
                <div class="col-lg-2 col-md-6 mb-4 mb-lg-0">
                   <h6 class="text-uppercase font-weight-bold mb-4">Política</h6>
                   <ul class="list-unstyled mb-0">
-                     <li class="mb-2"><a href="#" class="text-muted">Política LGPD</a></li>
-                     <li class="mb-2"><a href="#" class="text-muted">Termo de Uso</a></li>
-                     <li class="mb-2"><a href="#" class="text-muted">Segurança</a></li>
-                     <li class="mb-2"><a href="#" class="text-muted">Privacidade</a></li>
+                     <li class="mb-2"><a href="http://www.casadacaldeira.com.br/politicaprivacidade.php" class="text-muted">Política LGPD</a></li>
+                     <li class="mb-2"><a href="http://www.casadacaldeira.com.br/politica.php" class="text-muted">Politica de Garantia</a></li>
+                     <li class="mb-2"><a href="http://www.casadacaldeira.com.br/politicaprivacidade.php" class="text-muted">Privacidade</a></li>
                   </ul>
                </div>
                
@@ -48,11 +47,10 @@
 
 
                 
-                  <p class="text-muted "><img src="https://img.icons8.com/flat-round/24/000000/phone.png"/>&nbsp;&nbsp;Tel:  (44) 3244-1734</p>
-                  
-                  <p class="text-muted "><img src="https://img.icons8.com/color/24/000000/whatsapp--v2.png" alt="">&nbsp;Whats:  (44) 3244-1734</p>
-                  
-                  <p class="text-muted "><img src="https://img.icons8.com/color/24/000000/whatsapp--v2.png" alt="">&nbsp;Whats:   (44) 3244-2584</p>
+                  <p class="text-muted "><img src="https://img.icons8.com/flat-round/24/000000/phone.png"/>&nbsp;&nbsp;Tel:  (44) 3244-1435</p>
+                  <p class="text-muted "><img src="https://img.icons8.com/flat-round/24/000000/phone.png" alt="">&nbsp;Whats:  (44) 3244-1734</p>
+                  <p class="text-muted "><img src="https://img.icons8.com/color/24/000000/whatsapp--v2.png" alt="">&nbsp;Whats:   (44) 99931-0334</p>
+                  <p class="text-muted "><img src="https://img.icons8.com/color/24/000000/whatsapp--v2.png" alt="">&nbsp;Whats:   (44) 99907-0808</p>
                 
 
 

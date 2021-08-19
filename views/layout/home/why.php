@@ -25,29 +25,29 @@
                         <span class="fa fa-smile-o"></span>
                         
                         <div class="stats-info">
-                            <span class="number">125</span>
-                            <h4>Paises que Fornecemos</h4>
+                            <span class="number">4</span>
+                            <h4>Paises que Ja Fornecemos</h4>
                         </div>
                     </div>
                     <div class="col-md-6 col-sm-4 col-6 stat">
                         <span class="fa fa-smile-o"></span>
                         <div class="stats-info">
-                            <span class="number">1200</span>
-                            <h4>Clientes Satisfeitos</h4>
+                            <span class="number">700+</span>
+                            <h4>CALDEIRAS / EQUIPAMENTOS FABRICADOS</h4>
                         </div>
                     </div>
                     <div class="col-md-6 col-sm-4 col-6 stat">
                     <span class="fa fa-lightbulb-o"></span>
                         <div class="stats-info">
-                            <span class="number">1200+</span>
-                            <h4>Caldeiras Vendidas</h4>
+                            <span class="number">31 ANOS</span>
+                            <h4>TEMPO DE EMPRESA</h4>
                         </div>
                     </div>
                     <div class="col-md-6 col-sm-4 col-6 stat">
                         <span class="fa fa-lightbulb-o"></span>
                         <div class="stats-info">
-                            <span class="number">150</span>
-                            <h4>Caldeiras Exportadas</h4>
+                            <span class="number">10+</span>
+                            <h4>CALDEIRAS / FORNALHAS A VAPOR EXPORTADAS</h4>
                         </div>
                     </div>
                 </div>
