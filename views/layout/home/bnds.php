@@ -5,7 +5,7 @@
             <div class="text-align text-center py-lg-4 py-md-3">
                 <h3 class="title-big">Financiamentos</h3>
                 <p class="mt-4">Aceitamos financiamento pelo BNDES e Finame.</p>
-                <a class="btn btn-style btn-primary mt-sm-5 mt-4 mr-2" href="#learn">Contate-nos</a>
+                <a class="btn btn-style btn-primary mt-sm-5 mt-4 mr-2" href="#contact">Contate-nos</a>
             </div>
         </div>
     </div>
